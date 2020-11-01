@@ -6,9 +6,11 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "owncloud-design-system": "^1.14.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
-    "vuex": "^3.4.0"
+    "vuex": "^3.4.0",
+    "vuex-router-sync": "^5.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
